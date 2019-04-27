@@ -1,0 +1,14 @@
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\malik\OneDrive\Desktop\Classes\CT-406\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
